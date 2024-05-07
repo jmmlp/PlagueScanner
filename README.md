@@ -1,3 +1,70 @@
+*****Notizen*****
+https://www.youtube.com/watch?v=nPHP3heBzMU
+
+VirusTotal Engines https://en.wikipedia.org/wiki/VirusTotal:
+
+    AegisLab (AegisLab)
+    Antiy Labs (Antiy-AVL)
+    Aladdin (eSafe)
+    AVAST Software (Avast Antivirus)
+    AVG Technologies (AVG AntiVirus)
+    Avira
+    BluePex (AVware)
+    Baidu (Baidu-International)
+    BitDefender GmbH (BitDefender)
+    Bkav Corporation (Bkav)
+    ByteHero Information Security Technology Team (ByteHero)
+    Cat Computer Services (Quick Heal)
+    CMC InfoSec (CMC Antivirus)
+    CYREN
+    ClamAV
+    Comodo (Comodo)
+    Criminal IP
+    CrowdStrike
+    Cybereason
+    Doctor Web Ltd. (Dr.Web)
+    Emsisoft Ltd. (Emsisoft)
+    Endgame
+    Eset Software (ESET NOD32)
+    Fortinet
+    FRISK Software (F-Prot)
+    F-Secure
+    Gridinsoft
+    G Data CyberDefense (G Data)
+    Hacksoft (The Hacker)
+    Hauri (ViRobot)
+    IKARUS Security Software (IKARUS)
+    INCA Internet (nProtect)
+    Invincea (Invincea, acquired by Sophos)
+    Jiangmin (KV Antivirus)
+    Kaspersky Lab (Kaspersky Anti-Virus)
+    Kingsoft
+    Malwarebytes Corporation (Malwarebytes' Anti-Malware)
+    McAfee
+    Microsoft (Malware Protection)
+    MicroWorld (eScan)
+    NANO Security (NANO Antivirus)
+    Norman (Norman Antivirus)
+    Panda Security (Panda Platinum)
+    Palo Alto Networks (Palo Alto Networks Threat Intelligence Cloud)
+    Qihoo 360
+    Rising Antivirus (Rising)
+    SentinelOne
+    Sophos (SAV)
+    SUPERAntiSpyware
+    Symantec Corporation (Symantec)
+    Tencent
+    ThreatTrack Security (VIPRE Antivirus)
+    TotalDefense
+    Trend Micro (TrendMicro, TrendMicro-HouseCall)
+    VirusBlokAda (VBA32)
+    Webroot
+    WhiteArmor
+    Yandex
+    Zillya! (Zillya)
+    Zoner Software (Zoner Antivirus)
+
+============
 PlagueScanner
 =============
 PlagueScanner is a multiple AV scanner framework for orchestrating a group of individual AV scanners into one contiguous scanner. There are two basic components in this initial release: Core and Agents.
